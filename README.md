@@ -2,4 +2,4 @@
 Contém os projetos desenvolvidos durante o curso `Nexa - Análise Avançada de Imagens e Texto com IA na AWS`.
 
 ## Projetos
-- [textract](./lista.py/)
+Lista Escolar
